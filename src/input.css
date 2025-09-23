@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.bgi{
+    background-image: url(./Frame\ \(56\).png);
+    background-size: cover;
+    background-color: #F3F8FF;
+}
